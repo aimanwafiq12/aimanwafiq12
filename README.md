@@ -27,8 +27,8 @@ I am a Data Science student, who always looking forward in gaining and expanding
 - Data Visualizations
 
 <hr>
-**My Expertise**<br>
 
+**My Expertise**
 
 **Languages:**
 
