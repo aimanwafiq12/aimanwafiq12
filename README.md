@@ -28,7 +28,7 @@ I am a Data Science student, who always looking forward in gaining and expanding
 
 <hr>
 
-**My Expertise**
+**🔭My Expertise**
 
 **Languages:**
 
@@ -57,3 +57,18 @@ I am a Data Science student, who always looking forward in gaining and expanding
 </p>
 
 <hr>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aimanwafiq12&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=Wafiq's GitHub Stats&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanwafiq12&layout=compact&theme=highcontrast&langs_count=8">
+</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aimanwafiq12&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aimanwafiq12&theme=highcontrast) 
+
+<h3>📫 Get in Touch: </h3>
+<p>
+<a href="http://www.linkedin.com/in/aimanwafiq12/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:aimanwafiq12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
