@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I am a Data Science student, who always looking forward in gaining and expanding experiences through academic studies, competitions and the world's current industry.
+
+**Currently exploring**
+- Deep Learning
+- Data Analytics
+- Data Visualizations
